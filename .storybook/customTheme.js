@@ -8,6 +8,6 @@ export default create({
   base: 'light',
   colorSecondary: '#0062BA',
   barTextColor: '#68707c',
-  appBg: '#f4f5f6',
+  appBg: '#ffffff',
   textColor: '#1e2b3c',
 });
